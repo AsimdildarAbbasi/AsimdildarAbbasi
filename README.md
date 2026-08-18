@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asim Abbasi</h1>
-<h3 align="center">Junior Cloud & DevOps Engineer | AWS Certified Cloud Practitioner</h3>
+<h3 align="center"> Cloud & DevOps Engineer | AWS Certified Cloud Practitioner</h3>
 
 <p align="center">
   Final-year CS student building production-style cloud infrastructure — Docker, Kubernetes, Terraform, and CI/CD pipelines on AWS.
