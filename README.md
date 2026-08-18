@@ -97,4 +97,4 @@ Event-driven serverless pipeline — S3 upload triggers a Lambda function (Pillo
 
 ---
 
-<p align="center"><i>Open to Junior DevOps / Cloud Engineer opportunities — let's connect!</i></p>
+<p align="center"><i> DevOps / Cloud Engineer — let's connect!</i></p>
